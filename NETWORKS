@@ -1,0 +1,142 @@
+physical layer
+
+
+network types
+
+
+1. can 
+campus area network
+hospital,organization,
+school,university
+having campus
+
+
+[] --------> 
+company A
+
+lan -> local area network
+
+[] [] []
+        --> locality area network
+[] [] []
+
+upto 1km ---> data loss will be there
+
+
+
+man --> metropolitan area network
+cities connected to each other forming 
+a network
+upto 10 kms
+
+wan --> wide area network 
+which connects provinces,regions,countries
+forming a network
+
+
+
+
+
+NETWORK TOPOLOGIES
+
+way of setting up a network
+structure of a network
+
+1. linear topology 
+
+[] --> [] --> [] --> []
+
+2. ring topology
+in this structure the device is connected
+forwardly and one device in back
+                   []
+                  /  \
+                []    []
+                |      |
+               []     []
+                |      |
+               []     []
+                 \   /
+                  []
+3 fully connected / mesh topology
+
+
+each and every device is connected
+to each other forming fully connected
+structure
+
+
+              / [] \
+            []--|--[]
+              \ | /
+               [] 
+                
+4 STAR TOPOLOGY
+master slave ARCHITECTURE
+
+THERE ARE TWO TYPES OF DEVICES
+1. MASTER NODE
+CENTRAL MACHINE WHICH CONTROLS
+ALL THE OTHER WORKING NODES ACTING
+AS SLAVES
+ 
+
+
+2. SLAVE /WORKING NODE
+WORKER NODES WHICH ARE BEING CONTROLLED
+BY THE MASTER NODE
+
+--> IF THE MASTER NODE GOES DOWN
+THE WORKER NODES ARE QUITE UNUSEFULL
+
+WIFI          []
+              |
+       [] --- [] ----[]
+              |
+              |
+             []
+                 
+
+
+DATA LINK LAYER
+the logical addressing happens
+
+
+MAC address --> media access control
+there is a physical address of your machine
+so that other machines can identify
+you
+
+
+wifi --> ipad X
+     --> mobile phone X
+     --> tv  X
+     --> laptop asking for internet
+permenant address given by the 
+manufacturers of the device while making
+it and it is used as landmark for your
+device
+so that whenever other devices
+wants to connect with your device
+they would be able to know about yourplace
+
+
+2. IP ADDRESS
+
+Internet protocol address
+it gives you identity to travel 
+the world of internet
+
+
+          internet (web)
+[] ---->  ip address --> so that 
+everyone should know your location 
+where are you
+
+ISP -->  ROUTER/WIFI MODEM --> devices --> WWW
+     ip (internet)
+WWW --> world wide web
+is a collection of documents and data stored
+on the computers connected to each other globally
+that can be accessible over the links
+and links on links(hyperlinks)
