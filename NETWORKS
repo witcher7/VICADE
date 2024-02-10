@@ -140,3 +140,44 @@ is a collection of documents and data stored
 on the computers connected to each other globally
 that can be accessible over the links
 and links on links(hyperlinks)
+
+
+NETWORK LAYER
+
+ISP     -----> ROUTER ----> DEVICES  
+INTERNET      INTERNET
+SERVICE 
+PROVIDER --> AT & T, sprint, T mobile carrier
+
+
+ARP --> address resolution protocol is used to
+convert IP to MAC
+assiging the ip addresses to MAC address
+
+RARP -->reverse address resolution protocol 
+is used to convert mac to ip
+whose request is sent to wifi router for internet
+
+
+DHCP --> dynamic host configuration protocol
+which convertes automatically assigning the ip
+addresses to mac addresses
+
+IP (logical/temporary address given router) --> ISP
+--------
+MAC PERMANENT ADDRESS
+----
+[]
+
+IP CLASSES RANGE
+THERE is a range of ip addresses beyond this
+range,no IP is valid
+                    range 
+CLASS A --> 0.0.0.0   --> 127.255.255.255
+CLASS B --> 128.0.0.0 --> 191.255.255.255
+CLASS C --> 192.0.0.0 --> 223.255.255.255
+CLASS D --> 224.0.0.0 --> 239.255.255.255
+CLASS E --> 240.0.0.0 --> 255.255.255.255
+
+192.125.235.255 --> CLASS C 
+
