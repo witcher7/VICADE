@@ -1,0 +1,87 @@
+OS --> operating system
+is a piece of software that helps us
+to interact with computer
+if we dont have os then it is piece of
+black box that is dumb saying 10s
+
+IN 1967-70s
+IN at&t they built OS --> UNIX
+stariting UNIX was kernal
+
+kernal --> bridge through which
+we helps in accessing hardware easily
+
+
+
+MObile game -----> you need more ram
+                   and cpu
+                  (HARDWARE)
+who is going to request hardware to 
+give that data
+ --------------> kernal who acts
+as a bridge between hardware and software
+through which we access hardware resources
+
+kernal --> software 
+
+     UNIX
+  [] ----> []
+
+people were adding more softwares with unix 
+and selling it and naming them as OS 
+
+
+MAC
+IBM 
+SUN SYSTEM --> they were selling OS in 1000 dollars
+
+in 1993--> LINuS TORVALDS also faced this issue
+and made LINUX
+
+IN LINUX [ GNU softwares --> OPEN SOURCE SOFTWARES}
+they dont need liscense
+
+linux became more popular than unix
+
+ but linux is not similar to unix
+ linux was built seeing unix as a standard
+
+  linux = unix --> they are not same
+ unix --> kernal and linux with GNU software  OS
+
+                        KERNAL 
+
+APPLICATION ---> OS --->      ---> HARDWARE 
+
+ 
+LINUX --> 
+    ---->  FREE OF USE 
+   
+      --> MORE FAST AND FAST as compare to windows
+      --> windows is home of viruses
+      --> IN linux --> it is quite tough --> virus
+          linux has a different file system
+automatically virus is removed from linux
+      --> linux requires less resource
+windows --> 5gb of ram and good cpu to act perfectly
+  linux --> in 512mb of ram 1 core cpu
+  ---> linux --> GUI (graphical user interface)
+             --> CLI ( command line interface)
+      
+
+CLI --> LINUX --> 512 mb of ram
+
+GUI --> LINUX --> 2gb of ram 
+
+|   |
+C   D DRIVE 
+VIRUS
+
+
+
+
+
+
+ 
+
+
